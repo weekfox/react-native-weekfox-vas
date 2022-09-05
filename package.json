@@ -1,6 +1,6 @@
 {
     "name": "@weekfox/react-native-weekfox-vas",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "this is designed for weekfox vas util",
     "homepage": "https://github.com/weekfox/react-native-weekfox-vas",
     "main": "index.js",
