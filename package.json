@@ -1,0 +1,27 @@
+{
+    "name": "@weekfox/react-native-weekfox-vas",
+    "version": "1.0.0",
+    "description": "this is designed for weekfox vas util",
+    "homepage": "https://github.com/weekfox/react-native-weekfox-vas",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-weekfox-vas",
+      "weekfox/react-native-weekfox-vas"
+    ],
+    "author": {
+      "name": "weekfox",
+      "email": "weekfox@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/weekfox/react-native-weekfox-vas.git"
+    },
+    "peerDependencies": {
+      "react-native": ">=0.64.0"
+    }
+  }
+  
